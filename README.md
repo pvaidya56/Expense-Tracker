@@ -1,1 +1,2 @@
-# Expense-Tracker
+# Expense-Tracker-React
+Expense Tracker (React, MERN)
